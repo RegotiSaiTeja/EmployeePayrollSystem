@@ -1,0 +1,65 @@
+========== Example Enterprises ==========
+EMPLOYEE PAYROLL REPORT
+Tax Rate: 10.00% | HRA: 20.00% | DA: 10.00%
+
+----------------------------------------
+Designation: Employee
+Employee ID: 101
+Name: Ravi
+Basic Salary: 30000.00
+Gross Salary: 39000.00
+Net Salary (without bonus): 35100.00
+One-time Bonus: 2000.00
+Net Salary (including taxable bonus): 36900.00
+
+----------------------------------------
+Designation: Employee
+Employee ID: 102
+Name: Sita
+Basic Salary: 45000.00
+Gross Salary: 58500.00
+Net Salary (without bonus): 52650.00
+One-time Bonus: 0.00
+Net Salary (including taxable bonus): 52650.00
+
+----------------------------------------
+Designation: Manager
+Employee ID: 201
+Name: Anil
+Basic Salary: 60000.00
+Gross Salary: 87000.00
+Net Salary (without bonus): 78300.00
+Team Size: 8
+Travel Allowance: 5000.00
+Manager Incentive (separate; not in gross/net): 5220.00
+One-time Bonus: 10000.00
+Net Salary (including taxable bonus): 87300.00
+
+----------------------------------------
+Designation: Manager
+Employee ID: 202
+Name: Kiran
+Basic Salary: 70000.00
+Gross Salary: 96000.00
+Net Salary (without bonus): 86400.00
+Team Size: 4
+Travel Allowance: 3000.00
+Manager Incentive (separate; not in gross/net): 0.00
+One-time Bonus: 0.00
+Net Salary (including taxable bonus): 86400.00
+
+----------------------------------------
+Designation: Employee
+Employee ID: 103
+Name: Meena
+Basic Salary: 38000.00
+Gross Salary: 49400.00
+Net Salary (without bonus): 44460.00
+One-time Bonus: 1500.00
+Net Salary (including taxable bonus): 45810.00
+
+================ SUMMARY ================
+Higher net salary (first two accepted): Employee ID 102
+Total Monthly Net Salary Expense (excluding bonuses): 296910.00
+Final employeeCount: 5
+Records read: 8, accepted: 5, rejected: 3.

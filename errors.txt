@@ -1,0 +1,4 @@
+=== Payroll run: 2026-10-24 15:11:00 ===
+Line 7 | Record: E,104,Bad,-500,0 | Exception: InvalidSalaryException | Message: Basic salary must be a finite non-negative number: -500.0
+Line 8 | Record: M,203,Test,50000,-2,1000,0 | Exception: InvalidTeamSizeException | Message: Team size cannot be negative: -2
+Line 9 | Record: E,105,Bad Line,abc,0 | Exception: InvalidRecordException | Message: Non-numeric or missing field: For input string: "abc"
